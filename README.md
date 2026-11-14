@@ -4,7 +4,7 @@
 A demo of sending push notification without a server from one device to another
 where both are running the same app using the same account.
 
-For more details, please refer to my blog []()
+For more details, please refer to my blog [Swift: All I Need is To Send A Push Notification From One Device To Another.](https://medium.com/@itsuki.enjoy/swift-all-i-need-is-to-send-a-push-notification-from-one-device-to-another-46f6a850baa7)
 
 ![](./demo.gif)
 
